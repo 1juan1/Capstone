@@ -1,0 +1,20 @@
+#canvas {
+  border-style: solid;
+  border-width: 2px;
+  background-image: url("http://cdn.pcwallart.com/images/pixel-landscape-background-wallpaper-1.jpg");
+  cursor: none;
+  background-size: cover;
+}
+
+#optionarea {
+  font-size: 16px;
+}
+
+select {
+    border: 1 none;
+
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px 10px;
+    width: 150px;
+}
